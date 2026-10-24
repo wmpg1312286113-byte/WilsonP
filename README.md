@@ -1,47 +1,75 @@
-# Python Junior Developer | SQL
-
-Hi! I'm an aspiring software developer from Ecuador, interested in building practical software solutions using Python and SQL.
+# Junior Python Developer | Python & SQL
 
 ## About Me
 
-- **Role:** Junior Python Developer
-- **Programming:** Python
-- **Databases:** SQL
-- **English:** Intermediate
-- **Location:** Ecuador
-- **Interests:** Backend development, APIs, databases, and automation
+I am an aspiring Junior Python Developer from Ecuador with project-based experience developing functional software applications using Python and SQL.
 
-I'm focused on improving my programming skills, building practical projects, and contributing to software development teams. I'm eager to learn, solve problems, and grow as a developer.
+I enjoy building practical software solutions that help organize information, manage processes, and solve real-world problems. I am looking for an opportunity to grow professionally, improve my programming skills, and contribute to a development team.
 
 ## Technical Skills
 
-- Python
-- SQL
-- Relational databases
-- Problem-solving
-- Git and GitHub *(add only once you are comfortable using them)*
+- **Programming Language:** Python
+- **Database:** SQL
+- **Software Development:** Functional applications, data management, and project-based development
 
-## Projects
+## My Projects
 
-### Project 1 — Coming Soon
-I plan to build a Python application connected to a SQL database to demonstrate data management and backend development skills.
+### 1. Chatbot Jess
 
-### Project 2 — Coming Soon
-I plan to develop a Python automation tool to solve a practical everyday problem.
+A functional chatbot designed to answer questions and support conversational interactions.
 
-## Education
+**Main features:**
+- Answers user questions.
+- Supports conversational interactions.
 
-Add your degree, courses, certifications, or independent studies here.
+**Technologies:** Python and SQL, where applicable.
+
+**Status:** Functional.
+
+### 2. Parking Payment Management System
+
+A functional system developed for a local use case in my city to manage parking fee collection and payment records.
+
+**Main features:**
+- Records parking charges.
+- Registers payments.
+- Helps organize parking payment information.
+
+**Technologies:** Python and SQL.
+
+**Status:** Functional.
+
+### 3. Student Grade Management System
+
+A functional application designed to manage student information and academic grades.
+
+**Main features:**
+- Registers students.
+- Records student grades.
+- Organizes academic information.
+
+**Technologies:** Python and SQL.
+
+**Status:** Functional.
+
+## Education and Training
+
+- Information and Communication Technology Engineering.
+- Advanced Python Course.
 
 ## Languages
 
-- Spanish: Native *(confirm before publishing)*
-- English: Intermediate
+- **Spanish:** Not specified.
+- **English:** Intermediate.
+
+## Career Objective
+
+I am seeking a Junior Python Developer position where I can apply my Python and SQL knowledge, contribute to software development projects, learn from experienced developers, and continue growing in the technology industry.
 
 ## Contact
 
-- **GitHub:** [Your GitHub profile URL]
-- **Email:** [Your professional email]
 - **Location:** Ecuador
+- **Email:** wmpg.1312286113@gmail.com
 
-I'm open to junior-level opportunities and remote positions where I can continue learning and contribute to real-world projects.
+
+Thank you for visiting my profile!
